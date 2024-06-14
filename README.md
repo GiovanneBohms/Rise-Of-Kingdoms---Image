@@ -1,4 +1,4 @@
-# Image to Pixel Art for Rise of Kingdoms
+# Image to Pixel TextArt for Rise of Kingdoms
 
 Este projeto transforma arquivos de imagem em pixel art, permitindo que você insira imagens personalizadas no email do jogo **Rise of Kingdoms**.
 ## Exemplo de Imagem
