@@ -1,7 +1,9 @@
 # Image to Pixel Art for Rise of Kingdoms
 
 Este projeto transforma arquivos de imagem em pixel art, permitindo que você insira imagens personalizadas no email do jogo **Rise of Kingdoms**.
+## Exemplo de Imagem
 
+![Exemplo de Imagem](https://github.com/GiovanneBohms/converter/assets/13811860/eed6a241-65d5-4531-ba34-c2e3a19aca68)
 ## Índice
 
 - [Introdução](#introdução)
@@ -48,6 +50,4 @@ node img.js
 
 Desfrute de personalizar seu **Rise of Kingdoms** com suas próprias imagens em pixel art!
 
-## Exemplo de Imagem
 
-![Exemplo de Imagem](https://github.com/GiovanneBohms/converter/assets/13811860/eed6a241-65d5-4531-ba34-c2e3a19aca68)
