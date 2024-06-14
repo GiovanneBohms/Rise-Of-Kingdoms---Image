@@ -9,10 +9,7 @@ Este projeto transforma arquivos de imagem em pixel art, permitindo que você in
 - [Introdução](#introdução)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
-
+  
 ## Introdução
 
 Você já quis inserir uma imagem nos emails de  **Rise of Kingdoms**? Este projeto permite que você converta qualquer imagem em pixel art, compatível para ser inserida no jogo. Transforme suas fotos favoritas, logos ou qualquer outra imagem em arte de pixels para adicionar um toque pessoal aos seus emails em ROK.
