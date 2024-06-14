@@ -45,6 +45,6 @@ node img.js
 
 
 
-Desfrute de personalizar seu **Rise of Kingdoms** com suas próprias imagens em pixel art!
+Desfrute ao personalizar seus emails em  **Rise of Kingdoms** com suas próprias imagens em pixel art!
 
 
